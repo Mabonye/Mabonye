@@ -6,7 +6,7 @@
 - 📚 Drive for continuous learning and a strong commitment to innovation.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
