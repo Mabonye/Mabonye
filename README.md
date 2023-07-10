@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jemima Masamu
 
-- 🔭 I’m finalizing HackYourFuture's Web Development Bootcamp: https://www.hackyourfuture.dk/
+- 🔭 I’ve completed HackYourFuture's Web Development Bootcamp: https://www.hackyourfuture.dk/
 - 🌱 I’m currently working on a project using NextJS and TypeScript.
 - 📫 How to reach me: mimamenser@yahoo.com
 - 📚 Drive for continuous learning and a strong commitment to innovation.
